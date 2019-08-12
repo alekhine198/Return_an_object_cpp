@@ -1,0 +1,1 @@
+C++ file. A class that has a function that returns a class object. Function is referenced in header file and returns a pointer because it uses the new operator to create an object pointer. This code was taken from the course C++ for Beginers by John Prucell.
